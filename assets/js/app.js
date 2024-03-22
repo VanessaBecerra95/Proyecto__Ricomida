@@ -26,3 +26,6 @@ $(function () {
     $(".texto").toggle(400);
   });
 });
+
+/* finalmente lo logreeeee!!*/ 
+
